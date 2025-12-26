@@ -7,65 +7,45 @@
 
 
 <div align="center">
-  <h2>Languages & Tools</h2>
+
+<h2>Languages & Tools</h2>
+
+[<img align="left" alt="Python" width="50px" src="assets/python.png"/>][python]
+[<img align="left" alt="Pandas" width="50px" src="assets/pandas.png"/>][pandas]
+[<img align="left" alt="NumPy" width="50px" src="assets/numpy.png"/>][numpy]
+[<img align="left" alt="Matplotlib" width="50px" src="assets/matplotlib.png"/>][matplotlib]
+[<img align="left" alt="Seaborn" width="50px" src="assets/seaborn.png"/>][seaborn]
+[<img align="left" alt="Plotly" width="50px" src="assets/plotly.png"/>][plotly]
+
+<br><br>
+
+[<img align="left" alt="Scikit Learn" width="50px" src="assets/scikit_learn.png"/>][scikit-learn]
+[<img align="left" alt="Jupyter" width="50px" src="assets/jupyter_notebook.png"/>][jupyter]
+[<img align="left" alt="Colab" width="50px" src="assets/colab.png"/>][colab]
+[<img align="left" alt="VS Code" width="50px" src="assets/vscode.png"/>][vscode]
+[<img align="left" alt="OpenAI" width="50px" src="assets/openai.png"/>][openai]
+[<img align="left" alt="GitHub" width="50px" src="assets/github.png"/>][github]
+
+<br><br>
+
+[<img align="left" alt="Excel" width="50px" src="assets/excel.png"/>][excel]
+
 </div>
 
-<p align="center">
-  <!-- Core Language -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="assets/python.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
+[python]: https://www.python.org/
+[pandas]: https://pandas.pydata.org/
+[numpy]: https://numpy.org/
+[matplotlib]: https://matplotlib.org/
+[seaborn]: https://seaborn.pydata.org/
+[plotly]: https://plotly.com/python/
+[scikit-learn]: https://scikit-learn.org/stable/
+[jupyter]: https://jupyter.org/
+[colab]: https://colab.research.google.com/
+[vscode]: https://code.visualstudio.com/
+[openai]: https://openai.com/
+[github]: https://github.com/
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel/
 
-  <!-- Data Handling -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="assets/pandas.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="assets/numpy.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Visualization -->
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="assets/matplotlib.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="assets/seaborn.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-  <a href="https://plotly.com/python/" target="_blank">
-    <img src="assets/plotly.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="assets/scikit_learn.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Notebooks & Experimentation -->
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="assets/jupyter_notebook.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="assets/colab.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Tools & Platforms -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="assets/vscode.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="assets/openai.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Version Control -->
-  <a href="https://github.com/" target="_blank">
-    <img src="assets/github.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-
-  <!-- Productivity -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="assets/excel.png" width="42" style="margin: 10px; display:inline-block;" />
-  </a>
-</p>
 
 
 
