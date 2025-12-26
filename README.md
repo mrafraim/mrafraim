@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img alt="Cover" src="assets/profile.png" width="30%" style="display: block; margin: auto;"/>
+  <img alt="Cover" src="assets/profile.png" width="15%" style="display: block; margin: auto;"/>
   <h1> Welcome to my GitHub profile!</h1>
 
 </div>
