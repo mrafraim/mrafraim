@@ -1,16 +1,15 @@
-
 <div align="center">
 
-<h1> Welcome to my GitHub profile!</h1>
+  <img alt="Cover" src="assets/profile.png" width="30%" style="display: block; margin: auto;"/>
+  <h1> Welcome to my GitHub profile!</h1>
 
 </div>
 
-<div align="center">
+<!-- About Me + GIF side by side -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-<table>
-  <tr>
-    <!-- Left side: About Me text -->
-    <td align="left" width="60%">
+  <!-- Left side: About Me text -->
+  <div style="flex: 1; min-width: 250px; max-width: 500px; text-align: left;">
     
 ### Hi, I'm Mostafizur Rahman 👋
 
@@ -23,16 +22,15 @@ Currently exploring NLP, Computer Vision, and MLOps.
 - Passionate about data, algorithms, and efficient pipelines  
 - Always seeking challenges that push my limits  
 
-    </td>
+  </div>
 
-    <!-- Right side: GIF -->
-    <td align="center" width="40%">
-      <img src="assets/your-gif.gif" alt="Coding GIF" width="250"/>
-    </td>
-  </tr>
-</table>
+  <!-- Right side: GIF -->
+  <div style="flex: 1; min-width: 200px; max-width: 300px; text-align: center;">
+    <img src="assets/your-gif.gif" alt="Coding GIF" width="250" style="display: block; margin: auto;"/>
+  </div>
 
 </div>
+
 
 
 <div align="center">
