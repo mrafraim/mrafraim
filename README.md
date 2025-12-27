@@ -1,26 +1,20 @@
 <div align="center">
-
   <img alt="Cover" src="assets/profile.png" width="15%" style="display: block; margin: auto;"/>
-  <h1> Welcome to my GitHub profile!</h1>
-
+  <h1> Welcome to My GitHub Profile!</h1>
 <img align="right" height="250" width="375" alt="GIF" src="assets/neural_network.gif" />
-
 </div>
 
 <div>
-    
+  
 ### Hi, I'm Mostafizur Rahman 👋
 
-I'm a Data Scientist, Deep Learning enthusiast, and lifelong learner.  
-I love solving real-world problems with Python, ML, and AI.  
-Currently exploring NLP, Computer Vision, and MLOps.  
-
-- Currently working on Machine Learning & Deep Learning projects  
-- Learning new skills daily in AI and Data Engineering  
-- Passionate about data, algorithms, and efficient pipelines  
+I explore data to uncover patterns and build models that actually make sense. Always learning, experimenting, and sharing what works.
 
 </div>
 
+<br>
+<br>
+<br>
 <br>
 
 <div align="center">
@@ -62,11 +56,8 @@ Currently exploring NLP, Computer Vision, and MLOps.
 [anaconda]: https://www.anaconda.com/
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel/
 
-<br>
 
 [![Mostafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrafraim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)](https://github.com/mrafraim)
-
-<br>
 
 <div align="center">
 
@@ -76,8 +67,6 @@ Currently exploring NLP, Computer Vision, and MLOps.
 [<img align="center" alt="Kaggle" width="50px" src="assets/kaggle.png"/>][kaggle]
 [<img align="center" alt="Gmail" width="50px" src="assets/gmail.png"/>][gmail]
 
-
-<br>
 
 </div>
 
