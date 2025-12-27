@@ -64,6 +64,10 @@ Currently exploring NLP, Computer Vision, and MLOps.
 
 <br>
 
+[![Mostafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrafraim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)](https://github.com/mrafraim)
+
+<br>
+
 <div align="center">
 
 <h2>Connect with me </h2>
