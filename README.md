@@ -3,13 +3,11 @@
   <img alt="Cover" src="assets/profile.png" width="15%" style="display: block; margin: auto;"/>
   <h1> Welcome to my GitHub profile!</h1>
 
+<img align="right" height="250" width="375" alt="GIF" src="assets/neural_network.gif" />
+
 </div>
 
-<!-- About Me + GIF side by side -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <!-- Left side: About Me text -->
-  <div style="flex: 1; min-width: 250px; max-width: 500px; text-align: left;">
+<div>
     
 ### Hi, I'm Mostafizur Rahman 👋
 
@@ -20,18 +18,10 @@ Currently exploring NLP, Computer Vision, and MLOps.
 - Currently working on Machine Learning & Deep Learning projects  
 - Learning new skills daily in AI and Data Engineering  
 - Passionate about data, algorithms, and efficient pipelines  
-- Always seeking challenges that push my limits  
-
-  </div>
-
-  <!-- Right side: GIF -->
-  <div style="flex: 1; min-width: 200px; max-width: 300px; text-align: center;">
-    <img src="assets/your-gif.gif" alt="Coding GIF" width="250" style="display: block; margin: auto;"/>
-  </div>
 
 </div>
 
-
+<br>
 
 <div align="center">
 
