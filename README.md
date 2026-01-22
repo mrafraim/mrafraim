@@ -65,6 +65,7 @@ I explore data to uncover patterns and build models that actually make sense. Al
 <h2>Connect with me </h2>
 
 [<img align="center" alt="LinkedIn" width="42px" src="assets/linkedin.png"/>][linkedin]
+[<img align="center" alt="Website" width="42px" src="assets/mrafraim.png"/>][website]
 [<img align="center" alt="Kaggle" width="42px" src="assets/kaggle.png"/>][kaggle]
 [<img align="center" alt="Gmail" width="42px" src="assets/gmail.png"/>][gmail]
 
@@ -72,6 +73,7 @@ I explore data to uncover patterns and build models that actually make sense. Al
 </div>
 
 [linkedin]: https://www.linkedin.com/in/mostafizrahman10/
+[website]: https://mrafraim.github.io/Portfolio/
 [kaggle]: https://www.kaggle.com/mrafraim
 [gmail]: mailto:mostafiz.r.afraim@gmail.com
 
