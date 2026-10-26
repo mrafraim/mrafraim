@@ -58,7 +58,7 @@ I explore data to uncover patterns and build models that actually make sense. Al
 [github]: https://github.com/
 [openai]: https://openai.com/
 
-[![Mostafizur Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrafraim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)](https://github.com/mrafraim)
+[![Trophies](https://vercel.app)](https://github.com)
 
 <div align="center">
 
