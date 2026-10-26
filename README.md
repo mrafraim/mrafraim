@@ -58,9 +58,12 @@ I explore data to uncover patterns and build models that actually make sense. Al
 [github]: https://github.com/
 [openai]: https://openai.com/
 
-## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrafraim&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+<h2 align="center">Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mrafraim&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 <div align="center">
 
